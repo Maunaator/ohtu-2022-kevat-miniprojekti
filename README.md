@@ -1,4 +1,4 @@
-# Ohjelmistotuotanto 2022-Kevat Miniprojekti
+# Ohjelmistotuotanto 2022-Kevät Miniprojekti
 
 ## Dokumentaatio
 
