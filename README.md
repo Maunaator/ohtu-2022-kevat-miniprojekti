@@ -1,5 +1,5 @@
 # Ohjelmistotuotanto 2022-Kevät Miniprojekti
 
-## Dokumentaatio
+Ryhmän repositoriossa (Organisaatio)
 
-[Product Backlog](https://docs.google.com/spreadsheets/d/1mJlabSWnpCrgyVOKPa34vqNtYNF_JvlXrHQ4NPKWA3c/edit#gid=0)
+[Projekti](https://github.com/ohtu-2022k-minivinkit/ohtu-2022k-miniprojekti)
